@@ -4,9 +4,11 @@ from .forms import TopicForm, EntryForm
 from django.contrib.auth.decorators import login_required
 from django.http import Http404
 
+
 def check_topic_owner(topicowner, requestuser):
     if topicowner != requestuser:
      raise Http404
+
 
 def index(request):
     """Домашняя страница приложения Learning Log"""
