@@ -7,7 +7,7 @@ from django.http import Http404
 
 def check_topic_owner(topicowner, requestuser):
     if topicowner != requestuser:
-     raise Http404
+        raise Http404
 
 
 def index(request):
