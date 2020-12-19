@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b61fd4e1-18a1-417b-804d-c185f23f968a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/learning_logs/templates/learning_logs/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning_log/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/learning_log/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning_log/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/learning_log/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning_logs/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/learning_logs/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning_logs/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/learning_logs/views.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Django default" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Django default" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Django default" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kEKUiiwminXfWKNl8gDxdzsGyv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/test.html" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\learning_log\learning_log\templates\learning_log" />
+      <recent name="D:\learning_log\learning_log\templates" />
+      <recent name="D:\learning_log\learning_logs" />
+      <recent name="D:\learning_log" />
+      <recent name="D:\learning_log\users\templates\users" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\learning_log\learning_log" />
+      <recent name="D:\learning_log\templates" />
+      <recent name="D:\learning_log\learning_logs" />
+      <recent name="D:\learning_log" />
+      <recent name="D:\learning_log\learning_logs\templates\learning_log" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.test.html">
+    <configuration name="tess.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/learning_log/ll_env/Include/tess.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="test.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/learning_log/test.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="learning_log" type="Python.DjangoServer" factoryName="Django server">
+      <module name="learning_log" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.test.html" />
+        <item itemvalue="JavaScript Debug.tess.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand />
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b61fd4e1-18a1-417b-804d-c185f23f968a" name="Default Changelist" comment="" />
+      <created>1605260341326</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605260341326</updated>
+      <workItem from="1605260373356" duration="22575000" />
+      <workItem from="1605296985768" duration="5672000" />
+      <workItem from="1605347106392" duration="7918000" />
+      <workItem from="1605433670805" duration="27576000" />
+      <workItem from="1605605609971" duration="4553000" />
+      <workItem from="1605617271201" duration="8527000" />
+      <workItem from="1605629427849" duration="2667000" />
+      <workItem from="1605647600665" duration="4958000" />
+      <workItem from="1605694974537" duration="1787000" />
+      <workItem from="1605716233147" duration="4704000" />
+      <workItem from="1605794511718" duration="2453000" />
+      <workItem from="1605887298144" duration="2370000" />
+      <workItem from="1605957144144" duration="19863000" />
+      <workItem from="1606075933827" duration="14759000" />
+      <workItem from="1606162071818" duration="616000" />
+      <workItem from="1606178514812" duration="2787000" />
+      <workItem from="1606226417665" duration="316000" />
+      <workItem from="1608213038012" duration="1706000" />
+      <workItem from="1608223288906" duration="2031000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1605261046489</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605261046489</updated>
+    </task>
+    <task id="LOCAL-00002" summary="The basics">
+      <created>1605265776615</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605265776615</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Edit topics and entries features.">
+      <created>1605274763340</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605274763340</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Chapter 19 is almost over. Before refactoring exercise">
+      <created>1605437603594</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1605437603594</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Refactoring">
+      <created>1605442344124</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1605442344124</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Appearance, bootstrap">
+      <created>1605472249315</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1605472249315</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Other templates added">
+      <created>1605624526751</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1605624526751</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Ready for deployment to Heroku">
+      <created>1605650911149</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1605650911149</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Ready for deployment to Heroku">
+      <created>1605652891135</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1605652891135</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Ready for deployment to Heroku">
+      <created>1605653084933</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1605653084933</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Ready for deployment to Heroku">
+      <created>1605743753423</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1605743753423</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Ready for deployment to Heroku">
+      <created>1605743923869</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1605743923869</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="The basics" />
+    <MESSAGE value="Edit topics and entries features." />
+    <MESSAGE value="Chapter 19 is almost over. Before refactoring exercise" />
+    <MESSAGE value="Refactoring" />
+    <MESSAGE value="Appearance, bootstrap" />
+    <MESSAGE value="Other templates added" />
+    <MESSAGE value="Ready for deployment to Heroku" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ready for deployment to Heroku" />
+  </component>
+</project>

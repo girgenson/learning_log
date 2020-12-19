@@ -23,6 +23,10 @@ def topics(request):
     return render(request, 'learning_logs/topics.html', context)
 
 
+def about(request):
+    return render(request, 'learning_logs/about.html')
+
+
 @login_required
 def topic(request, topic_id):
     """Выводит одну тему и все ее записи."""

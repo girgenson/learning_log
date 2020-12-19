@@ -19,5 +19,5 @@ urlpatterns = [
     # Страница для редактирования записи
     path('edit_entry/<int:entry_id>/', views.edit_entry,
          name='edit_entry'),
-
+    path('about/', views.about, name='about'),
 ]

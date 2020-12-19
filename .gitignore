@@ -1,0 +1,6 @@
+/ll_env
+/.ideagi
+test.py
+__pycache__/
+*.sqlite3
+*.bak
