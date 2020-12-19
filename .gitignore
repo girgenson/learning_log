@@ -1,5 +1,5 @@
 /ll_env
-/.ideagi
+/.idea
 test.py
 __pycache__/
 *.sqlite3

@@ -2,6 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b61fd4e1-18a1-417b-804d-c185f23f968a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/05ad25da-6f36-4d9b-8c17-fc26d133a09a.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/learning_log.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Django_Lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/learning_logs/templates/learning_logs/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/learning_log/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/learning_log/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/learning_log/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/learning_log/urls.py" afterDir="false" />
@@ -174,6 +185,7 @@
       <workItem from="1606226417665" duration="316000" />
       <workItem from="1608213038012" duration="1706000" />
       <workItem from="1608223288906" duration="2031000" />
+      <workItem from="1608419821961" duration="216000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1605261046489</created>
